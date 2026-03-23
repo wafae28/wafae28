@@ -1,41 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Wafae&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%40%20ÉTS&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Wafae%20Mihoub&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Étudiante%20en%20génie%20logiciel%20%40%20ÉTS%20Montréal&descAlignY=57&descSize=17&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-*Building things that are as beautiful as they are functional.*
-&nbsp; · &nbsp; Montreal, QC 🇨🇦
-
-</div>
+### *Je construis des projets concrets — du code propre, des interfaces soignées, un impact réel.*
 
 <br/>
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 &nbsp; Software Engineering student at **École de Technologie Supérieure (ÉTS)**
-- ✨ &nbsp; Passionate about **UI/UX design**, **3D web experiences**, and turning ideas into polished products
-- 🚀 &nbsp; Currently building **Eden 3D** — an immersive 3D web project — and **Luxera**, a sleek luxury e-commerce concept
-
-<br/>
-
----
-
-## 🔗 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wafae-mihoub)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
 
 </div>
 
@@ -43,46 +18,106 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 À propos
 
-**Languages**
+- 🎓 &nbsp; Étudiante en **génie logiciel** à l'École de Technologie Supérieure (ÉTS), Montréal
+- 💡 &nbsp; Attirée par les projets à impact concret : **web**, **intelligence artificielle**, **applications métier**
+- 🏆 &nbsp; J'ai participé à des **hackathons** et développé des projets réels pour des **entreprises**
+- 🎯 &nbsp; Objectif : décrocher un **stage en développement logiciel ou IA** où je peux contribuer dès le premier jour
+
+<br/>
+
+---
+
+## 🚀 Projets principaux
+
+<br/>
+
+### 🌿 Eden 3D Québec &nbsp; — &nbsp; *Mandat client · En production*
+
+> Site web professionnel développé pour **Eden 3D**, une entreprise spécialisée en construction et aménagement extérieur au Québec.
+
+**Ce que j'ai livré :**
+- Conception et développement complet du site vitrine, de la maquette au déploiement
+- Interface haut de gamme pensée pour **renforcer l'image de marque** et **générer des leads clients**
+- Site déployé, en ligne, et **toujours maintenu activement** : [eden3d.ca](https://eden3d.ca/)
+
+**Stack :**
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+<br/>
+
+---
+
+### 🏥 MEDIQ – Crash Cart Intelligent &nbsp; — &nbsp; *Hackathon · Défi MEDIQ*
+
+> Logiciel d'analyse de données cliniques pour **réduire les erreurs médicamenteuses** dans les chariots d'urgence hospitaliers.
+
+**Ce que le projet fait :**
+- Analyse de fichiers CSV contenant des données patients (doses, signes vitaux)
+- Détection automatique d'anomalies via un **système de scoring à 3 niveaux** : `Normal` / `Inhabituel` / `Erreur critique`
+- Déclenchement d'**alertes visuelles et sonores** en cas de risque détecté
+- Logique algorithmique robuste pensée pour un **environnement médical réel**
+
+**Impact visé :** diminuer les erreurs médicamenteuses évitables — un enjeu critique en soins intensifs.
+
+**Stack :**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSV](https://img.shields.io/badge/Analyse%20CSV-grey?style=flat-square&logo=files&logoColor=white)
+
+<br/>
+
+---
+
+### 💎 Luxera &nbsp; — &nbsp; *En développement*
+
+> Plateforme de réservation en ligne pour **clinique esthétique** — projet académique conçu comme un **vrai produit**.
+
+**Vision :**
+- Interface soignée pour la prise de rendez-vous et la gestion des services
+- Architecture pensée pour être **réutilisable et commercialisable** auprès de vraies cliniques
+- Projet en cours de développement · objectif : version MVP fonctionnelle
+
+**Stack :**
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br/>
+
+---
+
+## 🛠️ Technologies
 
 <div align="center">
+
+**Langages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br/>
+
+**Web**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-<br/>
-
-**Frameworks & Libraries**
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br/>
 
-**Tools & Design**
-
-<div align="center">
+**Outils**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -90,64 +125,13 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 Eden 3D</h3>
-      <p>An immersive 3D web experience built for exploration and visual storytelling. Blending art with code.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      </p>
-      <a href="https://github.com/wafae28/eden3d">→ View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💎 Luxera</h3>
-      <p>A luxury e-commerce concept with a refined, editorial aesthetic. Focused on UI polish and user experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://github.com/wafae28/luxera">→ View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 Project Three</h3>
-      <p>Short description of what this project does and the problem it solves. Replace with your real project!</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-      <a href="#">→ View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Project Four</h3>
-      <p>Short description of what this project does and the problem it solves. Replace with your real project!</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      </p>
-      <a href="#">→ View Repo</a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wafae28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wafae28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=c9d1d9&count_private=true"/>
 &nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafae28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafae28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9"/>
 
 </div>
 
@@ -155,7 +139,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=wafae28&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+<img src="https://streak-stats.demolab.com?user=wafae28&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd"/>
 
 </div>
 
@@ -164,6 +148,10 @@
 ---
 
 <div align="center">
+
+*Ouverte aux opportunités de stage · N'hésitez pas à me contacter 👋*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
